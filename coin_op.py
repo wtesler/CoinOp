@@ -2,7 +2,7 @@ __author__ = 'Will Tesler'
 
 # Firebase Config
 config = {
-    "apiKey": "AAPI_KEY",
+    "apiKey": "FIREBASE_WEB_API_KEY",
     "authDomain": "mydomain.firebaseapp.com",
     "databaseURL": "https://myurl.firebaseio.com",
     "storageBucket": "tesler.will.coinop",
