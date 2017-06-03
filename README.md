@@ -1,3 +1,3 @@
-# Coin-Op
+# Cryptocurrency historical data collection script
 
-Polls global stats and data on the top 10 cryptocurrencies (by trade-volume), and stores in a firebase for aggregation. I use this with AWS Lambda to get a 5-minute polling interval.
+Polls global stats and data on the top 10 cryptocurrencies (by trade-volume), and stores in Firebase for aggregation. I use this with AWS Lambda to collect data every 5-minutes.
